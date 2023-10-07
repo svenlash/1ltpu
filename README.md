@@ -1,9 +1,9 @@
 # 1ltpu
 | Plugin | README |
-| ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+| 1 | ------ |
+| 2 | [plugins/dropbox/README.md][PlDb] |
+| 3 | [plugins/github/README.md][PlGh] |
+| 4 | [plugins/googledrive/README.md][PlGd] |
+| 5 | [plugins/onedrive/README.md][PlOd] |
+| 6 | [plugins/medium/README.md][PlMe] |
+| 7 | [plugins/googleanalytics/README.md][PlGa] |
