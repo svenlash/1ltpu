@@ -1,0 +1,5 @@
+import math 
+import re
+for i in range(2024, 10**10, 2024):
+    if re.match('^1.2157.*4$',str(i)):
+        print(i, i//2024)
