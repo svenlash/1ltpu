@@ -1,6 +1,7 @@
-ltpu1                                              ![image](https://github.com/user-attachments/assets/5cdc32f6-9ea7-44ef-a783-fd8ed70cd951)
+ltpu1                                            
 |N|T(c-cod, p - arm, e - excel)|
 | ------ | ------ |
+|*|![image](https://github.com/user-attachments/assets/1662aaf2-ed65-4c03-9a5d-066793ee799a)|
 |1|p|
 |2|c/p|
 |3|e|
