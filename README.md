@@ -1,4 +1,4 @@
-ltpu1
+ltpu1                                              ![image](https://github.com/user-attachments/assets/5cdc32f6-9ea7-44ef-a783-fd8ed70cd951)
 |N|T(c-cod, p - arm, e - excel)|
 | ------ | ------ |
 |1|p|
