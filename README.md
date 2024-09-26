@@ -1,7 +1,6 @@
 ltpu1                                            
 |N|T(c-cod, p - arm, e - excel)|
 | ------ | ------ |
-|*|![image](https://github.com/user-attachments/assets/1662aaf2-ed65-4c03-9a5d-066793ee799a)|
 |1|p|
 |2|c/p|
 |3|e|
@@ -29,4 +28,4 @@ ltpu1
 |25||
 |26||
 |27|c|
-
+|regular|![image](https://github.com/user-attachments/assets/1662aaf2-ed65-4c03-9a5d-066793ee799a)|
