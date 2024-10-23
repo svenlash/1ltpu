@@ -1,0 +1,11 @@
+a=int(input())
+b=int(input())
+c=int(input())
+if a%2==0: aa=a 
+else: aa=0
+if b%2==0: bb=b 
+else: bb=0
+if c%2==0: cc=с 
+else: cc=0
+x=max(aa,bb,cc)
+print(x)
